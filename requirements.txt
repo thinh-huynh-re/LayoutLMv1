@@ -1,0 +1,8 @@
+pytesseract
+transformers
+datasets
+seqeval
+tensorboard
+ipywidgets
+torch
+torchvision
